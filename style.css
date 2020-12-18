@@ -1,0 +1,71 @@
+
+.harryPotter-color
+{
+    background-image: linear-gradient(2deg, #000000, #292929,#020202,#e6e6e6);
+}
+
+header nav .dropdown-menu
+{
+    background-color: #000;
+}
+header nav .dropdown-item
+{
+    color: #e2e0e0;;
+}
+header nav .dropdown-menu .dropdown-item:hover
+{
+    background-color: #100f0f;
+    color: #e2e0e0;;
+}
+
+
+section .staffimage
+{
+    background-image: url(assets/1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+section .btn
+{
+    background-color: #000000 !important;
+    padding: 15px 0px;
+    position: absolute;
+    top: 24%;
+}
+section .btn a
+{
+    color: #ece8e8;
+    text-decoration: none;
+}
+
+.team-staff .harry-card
+{
+    padding-top: 35px;
+    background-image: linear-gradient(180deg, #565555, #b7b7b7,#020202,#000000);
+}
+.team-staff .harry-card img
+{
+    height: 200px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+.team-staff .harry-card h2
+{
+    color: #717171;
+    font-family: fantasy;
+    font-size: 38px;
+}
+.team-staff .harry-card div
+{
+    color: #cecece;
+    opacity: 0.8;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding-bottom:30px;
+}
+iframe
+{
+    padding: 0px !important;
+}
